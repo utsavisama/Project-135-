@@ -1,0 +1,10 @@
+body{
+    background-size:cover ;
+}
+
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 23px;
+    box-shadow: 5px 10px 170px pink;
+}
